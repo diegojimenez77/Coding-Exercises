@@ -37,8 +37,111 @@ main {
 }
 
 div {
-    background-color: white;
+    background-color: grey;
     height: 15rem;
-    width: 20rem;
+    width: 30rem;
     padding: 2rem;
+    border: 1px solid  black;
+    border-radius: 2rem;
+    margin: 1rem;
+    opacity: 0.6;
+    text-align: center;
+    line-height: 0.1rem;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+div:hover {
+    opacity: 1.0;
+}
+
+.html-git-css {
+    background-image: url(./assets/html-css.png);
+    background-size:250%;
+    background-position:center;
+}
+.advanced-css {
+    background-image: url(./assets/advanced-css.png);
+    background-size:200%;
+    background-position: center;
+}
+.javascript {
+    background-image: url(./assets/javascript.png);
+    background-size:cover;
+    background-position: -5rem;
+}
+.web-apis{
+    background-image: url(./assets/web-apis.jpg);
+    background-size: cover;
+}
+.third-party-apis{
+    background-image: url(./assets/tailwind.png);
+    background-size: 110%;
+    background-position: center;
+}
+.server-side-apis{
+    background-image: url(./assets/serverside-api.png);
+    background-size: 150%;
+    background-position: top;
+}
+.project1{
+    background-image: url(./assets/Project1.png);
+    background-size: cover;
+}
+.node {
+    background-image: url(./assets/node.jpg);
+    background-size: cover;
+}
+.oop {
+    background-image: url(./assets/oop3.jpg);
+    background-size: cover;
+}
+.express {
+    background-image: url(./assets/express.png);
+    background-size: cover;
+}
+.sql{
+    background-image: url(./assets/sql.png);
+    background-size: cover;
+}
+.orm {
+    background-image: url(./assets/orm.jpg);
+    background-size: 70%;
+}
+.mvc{
+    background-image: url(./assets/mvc.jpg);
+    background-size: cover;
+}
+.project2{
+    background-image: url(./assets/Project1.png);
+    background-size: cover;
+}
+.cs{
+    background-image: url(./assets/cs.jpg);
+    background-size: cover;
+}
+.nosql{
+    background-image: url(./assets/mongo.png);
+    background-size: 150%;
+    background-position: top;
+}
+.pwa{
+    background-image: url(./assets/pwa.png);
+    background-size: cover;
+}
+.react{
+    background-image: url(./assets/react.png);
+    background-size: cover;
+}
+.mern{
+    background-image: url(./assets/mern.png);
+    background-size: cover;
+}
+.state{
+    background-image: url(./assets/state.png);
+    background-size: cover;
+}
+.project3{
+    background-image: url(./assets/Project1.png);
+    background-size: cover;
 }
