@@ -1,0 +1,43 @@
+        * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        }
+
+        html{
+            font-size: 62.5%;
+        }
+        .editor{
+            display:flex;
+            flex-direction: column;
+            justify-content:flex-start;
+            padding-left: auto;
+        }
+        #html-code{
+            height: 33.333vh;
+            width: 20vw;
+        }
+        #css-code{
+            height: 33.333vh;
+            width: 20vw;
+        }
+        #js-code{
+            height: 33.333vh;
+            width: 20vw;
+        }
+        #output{
+            position: absolute;
+            top:0px;
+            right: 0px;
+            height: 80vh;
+            width: 80vw;
+        }
+        #instructions{
+            position: absolute;
+            bottom:0px;
+            right: 0px;
+            height: 20vh;
+            width: 80vw;
+        }
+     
+        

@@ -57,7 +57,22 @@ div:hover {
 .command-line1 {
     background-image: url(./assets/CommandLine.jpg);
     background-size: cover;
-    opacity:0.9;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.git {
+    background-image: url(./assets/Github2.png);
+    background-size: cover;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.html1{
+    background-image: url(./assets/html1.PNG);
+    background-size: cover;
     font-size: 2.5rem;
     color: white;
     font-weight: bold;
