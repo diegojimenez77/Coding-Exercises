@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>01-Ins-Command-Line</title>
+    <link rel="stylesheet" href="./02-Git.css">
+</head>
+<body>
+    <header>
+        <h1>Github Exercice</h1>
+        <nav>
+            <ul>
+                <li><a href="../index.html">Go Back to HTML-Git-CSS Ex</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h1>#  Instructor Demo: Git</h1>
+        <div class="container">
+            <h2>* It is important to be able to store and manage code as well as share it with others. In this class, we will be using a tool called Github.</h2>
+            <h2>* Open [Github](https://github.com/) in your browser.</h2>
+            <ul>
+                <li>* In this class, we will share code in repositories using Github.</li>
+                <li>* Click on the `new` button to demonstrate how to create a new repository.</li>
+                <li>* Give the new repository the name `first-day-demo`.</li>
+                <li>* Click on `add README` to add a README.md file.</li>\
+                <li>* Click on `create repository`.</li>
+                <li>* While the remote repo is now created, we need to pull down the repository to our machine to make changes to it.</li>
+                <li>* Click on the `code` button and select the HTTPS option under clone to copy the URL.</li>
+                <li>* Open up a terminal on your machine.</li>
+                <li>* 🔑 We use the terminal command `cd` to navigate to the directory where we want the repository located.
+              
+                ```bash
+                cd Desktop
+                ```</li>
+              <li>* 🔑 We use the git command `git clone` followed by the URL copied from Github to clone the repo to our machine.
+              
+                ```bash
+                git clone <url>
+                ```</li>
+                <li>* 🔑 The `git clone` command creates a new directory with the same name as the repository. We navigate into our new directory using `cd`.
+              
+                ```bash
+                first-day-demo
+                ```
+                cd </li>
+                <li>* 🔑 We add an HTML file to our local repo using `touch`.
+              
+                ```bash
+                touch index.html
+                ```
+              </li>
+              <li>* 🔑 We use `git add` to add our changes.
+              
+                ```bash
+                git add -A
+                ```
+              </li>
+              <li>* 🔑 To commit our changes, we use `git commit -m` with a commit message.
+              
+                ```bash
+                git commit -m "First commit"
+                ```
+              </li>
+              <li> * 🔑 To push our changes back up to the repo we created on Github, we use `git push`.
+              
+                ```bash
+                git push origin main
+                ```
+              </li>
+                <li>
+                * 🔑 It is important that we keep our local repo up-to-date. To pull down any changes from the repo we created on Github and update the repo on our local machine, we use git pull. The origin refers to the repo that we cloned and main is the branch. The default branch is main.
+              
+                ```bash
+                git pull origin main
+                ```</li>  
+            </ul>      
+        </div>
+        <section>
+            <video controls preload='auto' src="../assets/Videos/2022-10-18 12-30-59.mkv"></video>
+        </section>
+    </main>
+</body>
+</html>
