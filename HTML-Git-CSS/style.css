@@ -72,7 +72,21 @@ div:hover {
 }
 .html1{
     background-image: url(./assets/html1.PNG);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.html2{
+    background-image: url(./assets/html_student_Bio.PNG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
     font-size: 2.5rem;
     color: white;
     font-weight: bold;
