@@ -92,3 +92,70 @@ div:hover {
     font-weight: bold;
     text-align: center;
 }
+.attributes1{
+    background-image: url(./assets/07insattributes.PNG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.attributes2{
+    background-image: url(./assets/08-Stu-Attributes.PNG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+.css-color1 {
+    background-image: url(./assets/09-Ins-CSS.PNG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.css-color2 {
+    background-image: url(./assets/10-Stu-CSS-color.PNG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.css-font1 {
+    background-image: url(./assets/11-Ins-CSS-unit-font.PNG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+.css-font2 {
+    background-image: url(./assets/12-stu-css-units-fonts.PNG);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
