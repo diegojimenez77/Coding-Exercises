@@ -1,0 +1,63 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #fff;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #580E58
+}
+
+article {
+    margin: 20px auto;
+    padding: 20px;
+    border: 3px solid #580E58;
+    overflow: auto;
+}
+
+#header {
+    margin: 0 auto 50px auto;
+    width: 100%;
+    padding: 30px;
+    color: white;
+    background: #72668c;
+    border-bottom: 3px solid #580E58;
+    text-align: center;
+}
+
+#articles {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.art-title {
+    text-decoration: underline #003459;
+    margin-bottom: 15px;
+}
+
+.fashion {
+    height: 400px;
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    border: 2px white;
+}
+
+footer {
+    padding: 10px;
+    color: white;
+    background: #72668c;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #580E58;
+}

@@ -60,4 +60,22 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+.StuWindowObject {
+    background-image: url(./assets/OpenConsole.PNG);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.InsTraverseDom {
+    background-image: url(./assets/InsTraverseDom.PNG);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuTraverseDom {
+    background-image: url(./assets/StuTraverseDom.PNG);
+    background-size:150px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
 
