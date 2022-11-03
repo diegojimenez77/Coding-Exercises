@@ -74,7 +74,19 @@ div:hover {
 }
 .StuTraverseDom {
     background-image: url(./assets/StuTraverseDom.PNG);
-    background-size:150px 100px;
+    background-size:150px 95px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.InsSettingAttributes {
+    background-image: url(./assets/SettingAttributes.PNG);
+    background-size:130px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuSettingAttributes {
+    background-image: url(./assets/StuSettingAttributes.PNG);
+    background-size:130px 100px;
     background-repeat: no-repeat;
     background-position:bottom;
 }
