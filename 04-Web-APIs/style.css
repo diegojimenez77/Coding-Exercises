@@ -90,4 +90,9 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
-
+.InsCreateAppend {
+    background-image: url(./assets/CreateAppend.PNG);
+    background-size:250px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
