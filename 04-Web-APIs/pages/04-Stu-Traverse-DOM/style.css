@@ -33,7 +33,7 @@ article {
 }
 
 #articles {
-    max-width: 80%;
+    max-width: 90%;
     margin: 0 auto;
 }
 
@@ -43,8 +43,8 @@ article {
 }
 
 .fashion {
-    height: 400px;
-    width: 300px;
+    height: auto;
+    width: 50%;
     float: left;
     margin-right: 20px;
     border: 2px white;
