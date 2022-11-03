@@ -96,3 +96,9 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+.StuCreateAppend {
+    background-image: url(./assets/StuCreateAppend.PNG);
+    background-size:140px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
