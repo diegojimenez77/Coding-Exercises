@@ -102,3 +102,15 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+.InsTimersIntervals {
+    background-image: url(./assets/InsTimersIntervals.PNG);
+    background-size:140px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuTimersIntervals{
+    background-image: url(./assets/StuTimersIntervals.PNG);
+    background-size:170px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
