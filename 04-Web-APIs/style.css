@@ -126,3 +126,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPreventingDefault {
+    background-image: url(./assets/InsPreventingDefault.PNG);
+    background-size:170px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
