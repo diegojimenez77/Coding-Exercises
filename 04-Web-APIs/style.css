@@ -140,3 +140,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsKeyboardEvents {
+    background-image: url(./assets/InsKeyboardEvents.PNG);
+    background-size:130px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
