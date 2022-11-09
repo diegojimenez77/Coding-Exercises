@@ -1,3 +1,7 @@
+var body = document.body;
+var footer = document.createElement("footer");
+var ancla = document.createElement("a");
+
 // Selects carousel element
 var carousel = document.querySelector(".carouselbox");
 
@@ -49,3 +53,10 @@ prev.addEventListener("click", function(event){
 });
 
 navigate(0);
+
+//Append Footer & add style
+body.appendChild(footer);
+footer.appendChild(ancla);
+ancla.textContent = "Exercise Instructions"
+footer.setAttribute("style", "padding: 10px; color: white; background: #72668c; text-align: center; position: fixed; bottom: 0; right: 0; width: 300px; border: 3px solid #580E58;")
+ancla.setAttribute("href", "./instructions.html")
