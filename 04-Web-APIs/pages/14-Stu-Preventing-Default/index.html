@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tip Calculator</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calculador de Propinas</h1>
+        <h3>Ingresa el precio total de tu comida</h3>
+        <form id="form">
+            <input type="text" id="total" placeholder="Precio total de comida" />
+            <input type="text" id="tip-percentage" placeholder="Porcentaje de Propina">
+            <button id="submit">Calcula la Propina</button>
+        </form>
+        <div class="tip-area">
+            <h2>Monto de propina: <span id="tip-amount"></span></h2>
+            <h2>Total: <span id="new-total"></span></h2>
+        </div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

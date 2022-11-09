@@ -133,3 +133,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuPreventingDefault {
+    background-image: url(./assets/StuPreventingDefault.PNG);
+    background-size:130px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
