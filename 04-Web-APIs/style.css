@@ -147,3 +147,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuKeyboardEvents {
+    background-image: url(./assets/StuKeyboardEvents.PNG);
+    background-size:180px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
