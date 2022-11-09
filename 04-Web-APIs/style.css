@@ -154,3 +154,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsEventBubbling  {
+    background-image: url(./assets/InsEventBubbling.PNG);
+    background-size:180px 90px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
