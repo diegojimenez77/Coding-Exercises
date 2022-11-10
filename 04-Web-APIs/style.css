@@ -175,3 +175,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuDataAttributes {
+    background-image: url(./assets/StuDataAttributes.PNG);
+    background-size:150px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
