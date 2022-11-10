@@ -168,3 +168,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDataAttributes {
+    background-image: url(./assets/InsDataAttributes.PNG);
+    background-size:120px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
