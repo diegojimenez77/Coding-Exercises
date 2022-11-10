@@ -182,3 +182,9 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+.InsLocalStorage{
+    background-image: url(./assets/InsLocalStorage.PNG);
+    background-size:150px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
