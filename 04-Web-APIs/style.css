@@ -195,3 +195,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsLocalStorageObjects {
+    background-image: url(./assets/InsLocalStorageObjects.PNG);
+    background-size:70px 80px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
