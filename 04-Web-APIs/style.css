@@ -188,3 +188,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuLocalStorage {
+    background-image: url(./assets/StuLocalStorage.PNG);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
