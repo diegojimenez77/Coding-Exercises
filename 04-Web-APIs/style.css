@@ -230,3 +230,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.Homework {
+    background-image: url(./assets/Homework.PNG);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
