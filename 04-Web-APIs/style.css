@@ -212,7 +212,7 @@ div:hover {
 
 .InsLocalStorageTodos {
     background-image: url(./assets/InsLocalStorageTodos.PNG);
-    background-size:100px 100px;
+    background-size:150px 100px;
     background-repeat: no-repeat;
     background-position:bottom;
 }
@@ -220,6 +220,13 @@ div:hover {
 .StuLocalStorageTodos {
     background-image: url(./assets/StuLocalStorageTodos.PNG);
     background-size:70px 70px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuMiniProject {
+    background-image: url(./assets/StuMiniProject.PNG);
+    background-size:100px 100px;
     background-repeat: no-repeat;
     background-position:bottom;
 }

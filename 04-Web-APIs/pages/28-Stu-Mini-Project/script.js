@@ -1,3 +1,7 @@
+var body = document.body;
+var footer = document.createElement("footer");
+var ancla = document.createElement("a");
+
 var wordBlank = document.querySelector(".word-blanks");
 var win = document.querySelector(".win");
 var lose = document.querySelector(".lose");
@@ -91,7 +95,7 @@ function renderBlanks() {
 
 // Updates win count on screen and sets win count to client storage
 function setWins() {
-    win.textContent = winConter;
+    win.textContent = winCounter;
     localStorage.setItem("winCount", winCounter);
 }
 
@@ -123,11 +127,11 @@ function getlosses() {
     } else {
         loseCounter = storedLosses;
     }
-    lose.tectContent = loseCounter;
+    lose.textContent = loseCounter;
 }
 
 function checkWin() {
-    // If the word wquals the blankletters array when converted to string, set is Win to true
+    // If the word equals the blankletters array when converted to string, set is Win to true
     if (chosenWord === blanksLetters.join("")) {
         // This value is used in the timer function to test if win condition is met
         isWin = true;
@@ -188,3 +192,10 @@ function resetGame() {
 }
 // Attaches event listener to button
 resetButton.addEventListener("click", resetGame);
+
+//Append Footer & add style
+body.appendChild(footer);
+footer.appendChild(ancla);
+ancla.textContent = "Exercise Instructions"
+footer.setAttribute("style", "padding: 10px; color: white; background: #72668c; text-align: center; position: fixed; bottom: 0; right: 0; width: 300px; border: 3px solid #580E58;")
+ancla.setAttribute("href", "./instructions.html")
