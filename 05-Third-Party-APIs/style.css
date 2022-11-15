@@ -109,3 +109,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsEventDelegation {
+    background-image: url(./assets/InsEventDelegation.PNG);
+    background-size:80px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
