@@ -81,3 +81,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsFormElements {
+    background-image: url(./assets/InsFormElements.PNG);
+    background-size:120px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
