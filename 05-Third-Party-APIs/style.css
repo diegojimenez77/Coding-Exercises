@@ -67,3 +67,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsClickEvents {
+    background-image: url(./assets/InsClickEvents.PNG);
+    background-size:80px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
