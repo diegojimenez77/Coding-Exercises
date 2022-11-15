@@ -74,3 +74,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuClickEvents {
+    background-image: url(./assets/StuClickEvents.PNG);
+    background-size:120px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
