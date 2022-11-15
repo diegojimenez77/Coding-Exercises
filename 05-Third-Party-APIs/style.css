@@ -88,3 +88,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuFormElements {
+    background-image: url(./assets/StuFormElements.PNG);
+    background-size:160px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
