@@ -116,3 +116,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuEventDelegation {
+    background-image: url(./assets/StuEventDelegation.PNG);
+    background-size:80px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
