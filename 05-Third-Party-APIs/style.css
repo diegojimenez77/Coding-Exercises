@@ -95,3 +95,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDomTraversal {
+    background-image: url(./assets/InsDomTraversal.PNG);
+    background-size:100px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
