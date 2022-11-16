@@ -123,3 +123,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsBootstrapComponents {
+    background-image: url(./assets/InsBootstrapComponents.PNG);
+    background-size:200px 60px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
