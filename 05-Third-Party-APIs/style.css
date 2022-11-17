@@ -137,3 +137,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsBootstrapLayout {
+    background-image: url(./assets/InsBootstrapLayout.PNG);
+    background-size:200px 40px;;
+    background-repeat: no-repeat;
+    background-position:bottom;   
+}
