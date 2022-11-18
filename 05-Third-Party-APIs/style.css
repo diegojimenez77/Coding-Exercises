@@ -165,3 +165,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsBootstrapExtended {
+    background-image: url(./assets/InsBootstrapExtended.PNG);
+    background-size:150px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuBootstrapExtended {
+    background-image: url(./assets/StuBootstrapExtend.PNG);
+    background-size:150px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
