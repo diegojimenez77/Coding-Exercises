@@ -158,3 +158,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;  
 }
+
+.StuBootstrapUtilities {
+    background-image: url(./assets/StuBootstrapUtilities.PNG);
+    background-size:60px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
