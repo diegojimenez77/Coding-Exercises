@@ -151,3 +151,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;   
 }
+
+.InsBootstrapUtilities {
+    background-image: url(./assets/InsBootstrapUtilities.PNG);
+    background-size:200px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;  
+}
