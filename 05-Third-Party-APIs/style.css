@@ -207,3 +207,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsJQueryUIInteraction {
+    background-image: url(./assets/InsJQueryUIInteraction.PNG);
+    background-size:70px 70px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
