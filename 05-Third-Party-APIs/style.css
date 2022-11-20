@@ -193,3 +193,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsJQueryUIWidgets {
+    background-image: url(./assets/InsJQueryUIWidgets.PNG);
+    background-size:100px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
