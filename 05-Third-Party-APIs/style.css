@@ -228,3 +228,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuMomentFormat {
+    background-image: url(./assets/StuMomentFormat.PNG);
+    background-size:100px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
