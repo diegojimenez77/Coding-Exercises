@@ -221,3 +221,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsMomentFormat {
+    background-image: url(./assets/InsMomentFormat2.PNG);
+    background-size:100px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
