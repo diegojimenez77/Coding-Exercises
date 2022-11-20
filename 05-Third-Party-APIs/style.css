@@ -200,3 +200,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuJQueryWidgets {
+    background-image: url(./assets/StuJQueryUIWidgets.PNG);
+    background-size:200px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
