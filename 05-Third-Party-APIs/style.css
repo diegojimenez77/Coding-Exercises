@@ -235,3 +235,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuMiniProject {
+    background-image: url(./assets/StuMiniProject.PNG);
+    background-size:100px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
