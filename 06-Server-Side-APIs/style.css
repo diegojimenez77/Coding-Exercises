@@ -81,3 +81,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDifferentAPIs {
+    background-image: url(./assets/InsDifferentAPIs.PNG);
+    background-size:130px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
