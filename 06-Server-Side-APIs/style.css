@@ -70,7 +70,14 @@ div:hover {
 
 .InsDemoFetch {
     background-image: url(./assets/InsDemoFetch.PNG);
-    background-size:200px 90px;;
+    background-size:150px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuCreateFetch {
+    background-image: url(./assets/StuCreateFetch.PNG);
+    background-size:130px 90px;;
     background-repeat: no-repeat;
     background-position:bottom;
 }
