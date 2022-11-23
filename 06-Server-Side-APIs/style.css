@@ -165,3 +165,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsFetchOptions {
+    background-image: url(./assets/InsFetchOptions.PNG);
+    background-size:120px 70px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
