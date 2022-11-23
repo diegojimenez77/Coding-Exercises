@@ -130,3 +130,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuNetworkActivity {
+    background-image: url(./assets/StuNetworkActivity.PNG);
+    background-size:110px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
