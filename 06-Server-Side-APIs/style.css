@@ -95,3 +95,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDemoParse {
+    background-image: url(./assets/InsDemoParse.PNG);
+    background-size:130px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
