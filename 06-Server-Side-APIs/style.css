@@ -151,3 +151,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDeconstructParameters {
+    background-image: url(./assets/InsDeconstructParameters.PNG);
+    background-size:80px 70px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
