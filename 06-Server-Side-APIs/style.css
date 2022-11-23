@@ -158,3 +158,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuDeconstructParameters {
+    background-image: url(./assets/StuDeconstructParameters.PNG);
+    background-size:80px 70px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
