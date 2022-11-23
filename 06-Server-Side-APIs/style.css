@@ -137,3 +137,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsFetchStatus {
+    background-image: url(./assets/InsFetchStatus.PNG);
+    background-size:110px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
