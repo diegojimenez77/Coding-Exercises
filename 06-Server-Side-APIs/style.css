@@ -172,3 +172,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuFetchOptions {
+    background-image: url(./assets/StuFetchOptions.PNG);
+    background-size:120px 70px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
