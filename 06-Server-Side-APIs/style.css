@@ -102,3 +102,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuParseJSON {
+    background-image: url(./assets/StuParseJSON.PNG);
+    background-size:130px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
