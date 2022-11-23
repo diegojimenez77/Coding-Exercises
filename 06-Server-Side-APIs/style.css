@@ -144,3 +144,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuFetchStatus {
+    background-image: url(./assets/StuFetchStatus.PNG);
+    background-size:110px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
