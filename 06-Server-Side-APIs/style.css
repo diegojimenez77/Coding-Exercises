@@ -116,3 +116,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuDemoDynamic{
+    background-image: url(./assets/InsDemoDynamic.PNG);
+    background-size:130px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
