@@ -186,3 +186,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuDocumentLocation {
+    background-image: url(./assets/StuDocumentLocation.PNG);
+    background-size:120px 70px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
