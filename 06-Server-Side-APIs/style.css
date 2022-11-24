@@ -193,3 +193,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsReviewPartOne {
+    background-image: url(./assets/InsReviewPartOne.PNG);
+    background-size:200px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
