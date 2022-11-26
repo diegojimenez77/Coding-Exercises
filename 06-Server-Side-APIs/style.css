@@ -221,3 +221,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.StuMiniProject {
+    background-image: url(./assets/StuMiniProject.PNG);
+    background-size:200px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.Homework {
+    background-image: url(./assets/Homework.PNG);
+    background-size:200px 90px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
