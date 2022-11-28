@@ -145,3 +145,10 @@ div:hover {
     background-image: url(./assets/Project1.png);
     background-size: cover;
 }
+.videos {
+    background-image: url(./assets/YouTube_full-color_icon_\(2017\).svg.png);
+    background-size:30%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color: aliceblue;
+}
