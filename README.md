@@ -1,0 +1,1 @@
+This is my project to consolidate all knowledge gathered in the coding bootcam.
