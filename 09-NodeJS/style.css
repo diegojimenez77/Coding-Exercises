@@ -59,3 +59,11 @@ div:hover {
     background-size:200px 50px;;
     background-repeat: no-repeat;
     background-position:center;}
+
+.StuHelloNode {
+    background-image: url(./assets/Node\ 02.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    }
+    
