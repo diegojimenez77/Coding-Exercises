@@ -94,3 +94,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsFunctionalLoops{
+    background-image: url(./assets/07-Ins-Functional-Loops.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuFunctionalLoops{
+    background-image: url(./assets/08-Stu-Functional-Loops.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
