@@ -73,4 +73,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
     }
-    
+
+.StuArroeFunction {
+    background-image: url(./assets/04-Stu-Arrow-Functions-Practice.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    }
