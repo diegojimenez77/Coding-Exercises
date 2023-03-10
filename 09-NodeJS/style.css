@@ -108,3 +108,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsTemplateLiterals{
+    background-image: url(./assets/09-Ins-Template-Literals.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuTemplateLiterals{
+    background-image: url(./assets/10-Stu-Template-Literals.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
