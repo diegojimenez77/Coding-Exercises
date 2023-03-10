@@ -80,3 +80,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
     }
+
+.InsLetConst {
+    background-image: url(./assets/05-Ins-Let-Const.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
