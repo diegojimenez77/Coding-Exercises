@@ -164,3 +164,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsNpm{
+    background-image: url(./assets/17-Ins-npm.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPackagenpm{
+    background-image: url(./assets/18-Stu-Package-npm.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
