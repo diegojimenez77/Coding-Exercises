@@ -192,3 +192,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.Insforof {
+    background-image: url(./assets/21-Ins-for-of.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.Stuforof {
+    background-image: url(./assets/22-Stu-for-of.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
