@@ -136,3 +136,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsReadWriteFile{
+    background-image: url(./assets/13-Ins-Read-Write-File.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuAppendFile{
+    background-image: url(./assets/14-Stu-appendFile.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
