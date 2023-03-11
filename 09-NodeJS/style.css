@@ -150,3 +150,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsModularization{
+    background-image: url(./assets/15-Ins-Modularization.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuMaths{
+    background-image: url(./assets/16-Stu-maths.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
