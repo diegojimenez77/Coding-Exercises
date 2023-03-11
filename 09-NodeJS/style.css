@@ -178,3 +178,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsInquirerDemo {
+    background-image: url(./assets/19-Ins-Inquirer-Demo.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuInquirerUsers {
+    background-image: url(./assets/20-Stu-Inquirer-Users.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
