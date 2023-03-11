@@ -122,3 +122,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsProcessargv {
+    background-image: url(./assets/11-Ins-Process-argv.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuParameterCheck{
+    background-image: url(./assets/12-Stu-Parameter-Check.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
