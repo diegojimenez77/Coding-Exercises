@@ -206,3 +206,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsRestandSpread{
+    background-image: url(./assets/23-Ins-Rest-and-Spread.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuRestandSpread{
+    background-image: url(./assets/24-Stu-Rest-and-Spread.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
