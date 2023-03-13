@@ -68,3 +68,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPrototypes{
+    background-image: url(./assets/03-Ins-Prototypes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPrototypes{
+    background-image: url(./assets/04-Stu-Prototypes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
