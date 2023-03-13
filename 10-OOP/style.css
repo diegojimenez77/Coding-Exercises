@@ -55,8 +55,15 @@ div:hover {
     opacity: 1.0;
 }
 
-.StuMiniProject{
-    background-image: url(./assets/28-Stu-Mini-project.PNG);
+.InsConstructors{
+    background-image: url(./assets/01-Ins-Constructors.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuConstructors{
+    background-image: url(./assets/02-Stu-Constructors.PNG);
     background-size:200px 80px;;
     background-repeat: no-repeat;
     background-position:bottom;
