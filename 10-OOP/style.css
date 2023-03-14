@@ -96,3 +96,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPromises{
+    background-image: url(./assets/07-Ins-Promises.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPromises{
+    background-image: url(./assets/08-Stu-Promises.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
