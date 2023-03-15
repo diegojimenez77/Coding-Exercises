@@ -110,3 +110,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPromiseAll{
+    background-image: url(./assets/09-Ins-Promise-All.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPromiseAll{
+    background-image: url(./assets/10-Stu-Promise-All.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
