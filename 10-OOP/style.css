@@ -124,3 +124,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsTDD{
+    background-image: url(./assets/11-Ins-TDD.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuTDD{
+    background-image: url(./assets/12-Stu-TDD.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
