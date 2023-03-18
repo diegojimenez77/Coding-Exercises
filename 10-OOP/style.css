@@ -138,3 +138,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPassTests{
+    background-image: url(./assets/13-Ins-Pass-Tests.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
+
+.StuPassTests{
+    background-image: url(./assets/14-Stu-Pass-Tests.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
