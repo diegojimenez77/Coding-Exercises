@@ -152,3 +152,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom; 
 }
+
+.InsOrganizingTests{
+    background-image: url(./assets/15-Ins-Organizing-Tests.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
+
+.StuOrganizingTests{
+    background-image: url(./assets/16-Stu-Organizing-Tests.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
