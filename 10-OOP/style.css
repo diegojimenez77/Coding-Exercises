@@ -166,3 +166,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom; 
 }
+
+.InsIntroduceMocks{
+    background-image: url(./assets/17-Ins-Introduce-Mocks.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
+
+.StuFirstMock{
+    background-image: url(./assets/18-Stu-First-Mock.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
