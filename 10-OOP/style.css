@@ -222,3 +222,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom; 
 }
+
+.InsMultipleClasses{
+    background-image: url(./assets/25-Ins-Multiple-Classes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    }
+
+.StuMultipleClasses{
+    background-image: url(./assets/26-Stu-Multiple-Classes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    }
