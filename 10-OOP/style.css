@@ -180,3 +180,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom; 
 }
+
+.InsModuleMockDemo{
+    background-image: url(./assets/19-Ins-Module-Mock-Demo.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
+
+.StuMockFs{
+    background-image: url(./assets/20-Stu-Mock-Fs.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom; 
+}
