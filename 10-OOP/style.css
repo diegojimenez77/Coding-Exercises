@@ -236,3 +236,10 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
     }
+
+.StuMiniProject{
+    background-image: url(./assets/28-Stu-Mini-Project.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
