@@ -96,3 +96,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsGetFetch{
+    background-image: url(./assets/07-Ins-GET-Fetch.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuGetFetch{
+    background-image: url(./assets/08-Stu-GET-Fetch.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
