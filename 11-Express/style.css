@@ -110,3 +110,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsStaticAssets{
+    background-image: url(./assets/09-Ins-Static-Assets.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuStaticAssets{
+    background-image: url(./assets/10-Stu-Static-Assets.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
