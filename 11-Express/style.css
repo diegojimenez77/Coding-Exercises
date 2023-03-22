@@ -138,3 +138,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPOSTRequest{
+    background-image: url(./assets/13-Ins-POST-Request.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPOSTRequest{
+    background-image: url(./assets/14-Stu-POST-Request.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
