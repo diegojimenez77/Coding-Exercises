@@ -68,3 +68,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsApiHTMLRoutes{
+    background-image: url(./assets/03-Ins-API-HTML-Routes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuApiHTMLRoutes{
+    background-image: url(./assets/04-Stu-API-HTML-Routes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
