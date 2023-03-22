@@ -124,3 +124,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsInsomnia{
+    background-image: url(./assets/11-Ins-Insomnia.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuInsomnia{
+    background-image: url(./assets/12-Stu-Insomnia.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
