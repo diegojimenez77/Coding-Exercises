@@ -166,3 +166,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPOSTFetch{
+    background-image: url(./assets/17-Ins-POST-Fetch.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPOSTFetch{
+    background-image: url(./assets/18-Stu-POST-Fetch.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
