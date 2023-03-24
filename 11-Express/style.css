@@ -194,3 +194,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsModularRouting{
+    background-image: url(./assets/21-Ins-Modular-Routing.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuModularRouting{
+    background-image: url(./assets/22-Stu-Modular-Routing.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
