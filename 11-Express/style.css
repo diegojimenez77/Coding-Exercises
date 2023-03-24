@@ -180,3 +180,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDataPersistance{
+    background-image: url(./assets/19-Ins-Data-Persistance.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuDataPersistance{
+    background-image: url(./assets/20-Stu-Data-Persistance.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
