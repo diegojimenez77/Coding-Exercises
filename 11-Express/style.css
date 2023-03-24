@@ -208,3 +208,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsModularRouting{
+    background-image: url(./assets/23-Ins-Custom-Middleware.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuModularRouting{
+    background-image: url(./assets/24-Stu-Custom-Middleware.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
