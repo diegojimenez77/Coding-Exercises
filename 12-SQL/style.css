@@ -81,3 +81,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsTables {
+    background-image: url(./assets/05-Ins-Tables.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuTables {
+    background-image: url(./assets/06-Stu-Tables.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
