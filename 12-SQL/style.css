@@ -67,3 +67,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDatabases{
+    background-image: url(./assets/03-Ins-Databases.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuDatabases{
+    background-image: url(./assets/04-Stu-Databases.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
