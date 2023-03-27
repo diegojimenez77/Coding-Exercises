@@ -123,3 +123,16 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsConnectNode{
+    background-image: url(./assets/11-Ins-Connect-Node.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuConnectNode{
+    background-image: url(./assets/12-Stu-Connect-Node.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
