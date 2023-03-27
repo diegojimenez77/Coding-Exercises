@@ -109,3 +109,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsCRUDDelete{
+    background-image: url(./assets/09-Ins-CRUD-Delete.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuCRUDDelete{
+    background-image: url(./assets/10-Stu-CRUD-Delete.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
