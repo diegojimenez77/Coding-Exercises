@@ -178,3 +178,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsForeignPrimaryKey{
+    background-image: url(./assets/19-Ins-Foreign-Pirmary-Key.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuForeignPrimaryKey{
+    background-image: url(./assets/20-Stu-Foreign-Primary-Key.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
