@@ -150,3 +150,31 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsSchema{
+    background-image: url(./assets/15-Ins-Schema.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuSchema{
+    background-image: url(./assets/16-Stu-Schema.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.InsSeeds{
+    background-image: url(./assets/17-Ins-Seeds.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuSeeds{
+    background-image: url(./assets/18-Stu-Seeds.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
