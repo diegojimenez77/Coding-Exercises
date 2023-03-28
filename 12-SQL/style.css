@@ -136,3 +136,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDataTypes{
+    background-image: url(./assets/13-Ins-Data-Types.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuDataTypes{
+    background-image: url(./assets/14-Stu-Data-Types.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
