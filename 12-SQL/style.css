@@ -220,3 +220,15 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+.InsJOIN{
+    background-image: url(./assets/25-Ins-JOIN.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuJOIN{
+    background-image: url(./assets/26-Stu-JOIN.PNG);
+    background-size:200px 50px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
