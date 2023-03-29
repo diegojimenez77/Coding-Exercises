@@ -192,3 +192,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPreparedStatements{
+    background-image: url(./assets/21-Ins-Prepared-Statements.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPreparedStatements{
+    background-image: url(./assets/22-Stu-Prepared-Statements.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
