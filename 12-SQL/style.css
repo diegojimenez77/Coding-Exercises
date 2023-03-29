@@ -206,3 +206,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsCOUNTGROUPBY{
+    background-image: url(./assets/23-Ins-COUNT-GROUPBY.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuCOUNTGROUPBY{
+    background-image: url(./assets/24-Stu-COUNT-GROUPBY.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
