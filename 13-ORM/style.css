@@ -95,3 +95,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsUpdateDelete{
+    background-image: url(./assets/06-Stu-Create-Read.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuUpdateDelete{
+    background-image: url(./assets/06-Stu-Create-Read.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
