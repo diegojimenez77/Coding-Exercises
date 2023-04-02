@@ -97,14 +97,28 @@ div:hover {
 }
 
 .InsUpdateDelete{
-    background-image: url(./assets/06-Stu-Create-Read.PNG);
+    background-image: url(./assets/07-Ins-Update-Delete.PNG);
     background-size:200px 80px;;
     background-repeat: no-repeat;
     background-position:bottom;
 }
 
 .StuUpdateDelete{
-    background-image: url(./assets/06-Stu-Create-Read.PNG);
+    background-image: url(./assets/08-Stu-Update-Delete.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.InsAsyncAwait{
+    background-image: url(./assets/09-Ins-Async-Await.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuAsyncAwait{
+    background-image: url(./assets/10-Stu-Async-Await.PNG);
     background-size:200px 80px;;
     background-repeat: no-repeat;
     background-position:bottom;
