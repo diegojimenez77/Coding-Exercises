@@ -123,3 +123,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsRESTfulRoutes{
+    background-image: url(./assets/11-Ins-RESTful-Routes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuRESTfulRoutes{
+    background-image: url(./assets/12-Stu-RESTful-Routes.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
