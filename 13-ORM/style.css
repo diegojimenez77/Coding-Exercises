@@ -165,3 +165,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsHooks{
+    background-image: url(./assets/17-Ins-Hooks.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuHooks{
+    background-image: url(./assets/18-Stu-Hooks.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
