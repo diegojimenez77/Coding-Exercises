@@ -151,3 +151,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPasswordHashing{
+    background-image: url(./assets/15-Ins-Password-Hashing.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuPasswordHashing{
+    background-image: url(./assets/16-Stu-Password-Hashing.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
