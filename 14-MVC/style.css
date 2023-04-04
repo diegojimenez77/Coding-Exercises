@@ -95,3 +95,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsDataSerialization{
+    background-image: url(./assets/07-Ins-Data-Serialization.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuDataSerialization{
+    background-image: url(./assets/08-Stu-Data-Serialization.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
