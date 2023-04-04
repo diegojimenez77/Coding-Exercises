@@ -67,3 +67,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsHandlebarsExpressions{
+    background-image: url(./assets/03-Ins-Handlebars-Expressions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuHandlebarsExpressions{
+    background-image: url(./assets/04-Stu-Handlebars-Expressions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
