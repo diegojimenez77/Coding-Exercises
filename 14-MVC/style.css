@@ -109,3 +109,16 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsHandlebarsFELogic{
+    background-image: url(./assets/09-Ins-Handlebars-FE-Logic.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuHandlebarsFELogic{
+    background-image: url(./assets/10-Stu-Handlebars-FE-Logic.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
