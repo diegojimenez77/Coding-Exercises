@@ -81,3 +81,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsHelpers{
+    background-image: url(./assets/05-Ins-Built-In-Helpers.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuHelpers{
+    background-image: url(./assets/06-Stu-Built-In-Helpers.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
