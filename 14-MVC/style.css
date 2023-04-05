@@ -165,3 +165,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsCookies{
+    background-image: url(./assets/17-Ins-Cookies.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuCookies{
+    background-image: url(./assets/18-Stu-Cookies2.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
