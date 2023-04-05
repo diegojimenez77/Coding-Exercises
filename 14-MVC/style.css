@@ -179,3 +179,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsMiddleware{
+    background-image: url(./assets/19-Ins-Middleware.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuMiddleware{
+    background-image: url(./assets/20-Stu-Middleware.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
