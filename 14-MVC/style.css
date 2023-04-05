@@ -122,3 +122,18 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsPartials{
+    background-image: url(./assets/11-Ins-Partials.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+
+.StuPartials{
+    background-image: url(./assets/12-Stu-Partials.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
