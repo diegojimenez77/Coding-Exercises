@@ -151,3 +151,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsSessions{
+    background-image: url(./assets/15-Ins-Sessions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuSessions{
+    background-image: url(./assets/16-Stu-Sessions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
