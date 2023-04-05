@@ -193,3 +193,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsMVCReview{
+    background-image: url(./assets/21-Ins-MVC-Review.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuMVCReview{
+    background-image: url(./assets/22-Stu-MVC-Review.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
