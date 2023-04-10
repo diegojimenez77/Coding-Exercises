@@ -81,3 +81,30 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsStacks{
+    background-image: url(./assets/05-Ins-Stacks.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuStacks{
+    background-image: url(./assets/06-Stu-Stacks.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.InsQueues{
+    background-image: url(./assets/07-Ins-Queues.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuQueues{
+    background-image: url(./assets/08-Stu-Queues.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
