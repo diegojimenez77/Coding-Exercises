@@ -108,3 +108,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsCallbackQueues{
+    background-image: url(./assets/09-Ins-Callback-Queue.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuCallbackQueues{
+    background-image: url(./assets/10-Stu-Callback-Queue.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
