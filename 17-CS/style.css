@@ -122,3 +122,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsHigherOrderFunctions{
+    background-image: url(./assets/11-Ins-Higher-Order-Function.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuHigherOrderFunctions{
+    background-image: url(./assets/12-Stu-Higher-Order-Functions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
