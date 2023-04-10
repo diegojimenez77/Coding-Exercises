@@ -67,3 +67,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsFunctionalExecution{
+    background-image: url(./assets/03-Ins-Functional-Execution.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuFunctionalExecution{
+    background-image: url(./assets/04-Stu-Functional-Ececution.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
