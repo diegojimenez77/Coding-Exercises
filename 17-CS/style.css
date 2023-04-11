@@ -178,3 +178,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsEventDelegationHandling{
+    background-image: url(./assets/19-Ins-Event-Delegation-Handling.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuEventDelegationHandling{
+    background-image: url(./assets/20-Stu-Event-Delegation-Handling.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
