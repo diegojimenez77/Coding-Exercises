@@ -150,3 +150,31 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsFactoryFunctions{
+    background-image: url(./assets/15-Factory-Functions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuFactoryFunctions{
+    background-image: url(./assets/16-Stu-Factory-Functions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.InsFactoryvsConstructor{
+    background-image: url(./assets/17-Ins-Factory-vs-Constructor.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuFactoryvsConstructor{
+    background-image: url(./assets/18-Stu-Factory-vs-Constructors.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
