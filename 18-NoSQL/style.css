@@ -123,3 +123,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsModelsSchemas{
+    background-image: url(./assets/11-Ins-Models-Schemas.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuModelsSchemas{
+    background-image: url(./assets/12-Stu-Models-Schemas.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
