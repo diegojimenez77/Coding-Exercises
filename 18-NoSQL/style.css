@@ -109,3 +109,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsCursorMethods{
+    background-image: url(./assets/09-Ins-Cursor-Methods.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuCursorMethods{
+    background-image: url(./assets/10-Stu-Cursor-Methods.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
