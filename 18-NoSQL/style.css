@@ -95,3 +95,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsEmbeddedDocuments{
+    background-image: url(./assets/07-Ins-Embedded-Documents.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuEmbeddedDocuments{
+    background-image: url(./assets/08-Stu-Embedded-Documents.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
