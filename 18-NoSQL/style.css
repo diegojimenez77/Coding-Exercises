@@ -193,3 +193,31 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsVirtuals{
+    background-image: url(./assets/21-Ins-Virtuals.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuVirtuals{
+    background-image: url(./assets/22-Stu-Virtuals.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.InsSubdocPopulation{
+    background-image: url(./assets/23-Ins-Subdoc-Population.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuSubdocPopulation{
+    background-image: url(./assets/24-Stu-Subdoc-Population.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
