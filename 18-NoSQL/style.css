@@ -137,3 +137,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsCRUDMongoose{
+    background-image: url(./assets/13-Ins-CRUD-Mongoose.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuCRUDMongoose{
+    background-image: url(./assets/14-Stu-CRUD-Mongoose.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
