@@ -151,3 +151,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsModelsInstanceMethods{
+    background-image: url(./assets/15-Ins-Models-Instance-Methods.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuModelsInstanceMethods{
+    background-image: url(./assets/16-Stu-Models-Instance-Methods.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
