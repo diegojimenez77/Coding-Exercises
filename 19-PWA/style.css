@@ -93,3 +93,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsWebpackLoader{
+    background-image: url(./assets/07-Ins-Webpack-Loader.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuWebpackLoader{
+    background-image: url(./assets/08-Stu-Webpack-Loader.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
