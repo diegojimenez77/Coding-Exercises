@@ -54,9 +54,16 @@ div {
 div:hover {
     opacity: 1.0;
 }
-.StuMiniProject{
-    background-image: url(./assets/28-Stu-Mini-project.PNG);
-    background-size:200px 80px;;
+.InsLighthouse{
+    background-image: url(./assets/01-Ins-Lighthouse.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuLighthouse{
+    background-image: url(./assets/02-Stu-Lighthouse.PNG);
+    background-size:100px 80px;;
     background-repeat: no-repeat;
     background-position:bottom;
 }
