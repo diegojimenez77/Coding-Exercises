@@ -67,3 +67,15 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+.InsWebpackIntro{
+    background-image: url(./assets/03-Ins-Webpack-Intro.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.StuWebpackIntro{
+    background-image: url(./assets/04-Stu-Webpack-Intro.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
