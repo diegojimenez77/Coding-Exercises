@@ -79,3 +79,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsWebpackBundle{
+    background-image: url(./assets/05-Ins-Webpack-Bundle.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuWebpackBundle{
+    background-image: url(./assets/06-Stu-Webpack-Bundle.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
