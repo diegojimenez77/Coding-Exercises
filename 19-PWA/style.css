@@ -121,3 +121,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsWebpackHMR{
+    background-image: url(./assets/11-Ins-Webpack-Plugin.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuWebpackHMR{
+    background-image: url(./assets/12-Stu-Webpack-HMR.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
