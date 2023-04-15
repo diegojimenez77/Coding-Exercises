@@ -135,3 +135,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsClientServer{
+    background-image: url(./assets/13-Ins-Client-Server.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuClientServer{
+    background-image: url(./assets/14-Stu-Client-Server.PNG);
+    background-size:100px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
