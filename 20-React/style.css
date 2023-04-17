@@ -67,3 +67,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsRenderElement{
+    background-image: url(./assets/03-Ins-Render-Element.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuRenderElement{
+    background-image: url(./assets/04-Stu-Render-Element.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
