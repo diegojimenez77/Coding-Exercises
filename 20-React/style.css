@@ -81,3 +81,17 @@ div:hover {
     background-repeat: no-repeat;
     background-position:bottom;
 }
+
+.InsJSXExpressions{
+    background-image: url(./assets/05-Ins-JSX-expressions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+
+.StuJSXExpressions{
+    background-image: url(./assets/06-Stu-JSX-expressions.PNG);
+    background-size:200px 80px;;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
