@@ -78,6 +78,14 @@ div:hover {
     font-weight: bold;
     text-align: center;
 }
+.StuGit {
+    background-image: url(./assets/Github2.png);
+    background-size: cover;
+    font-size: 2.5rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
 .html1{
     background-image: url(./assets/html1.PNG);
     background-size: contain;
@@ -168,4 +176,3 @@ div:hover {
     text-align: center;
 }
 
-.command-line1
