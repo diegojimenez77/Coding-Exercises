@@ -87,92 +87,109 @@ div:hover {
     text-align: center;
 }
 .html1{
-    background-image: url(./assets/html1.PNG);
-    background-size: contain;
+    background-image: url(./assets/05-Ins-HTML2.PNG);
+    background-size:200px 200px;;
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
-    font-size: 2.5rem;
-    color: white;
-    font-weight: bold;
-    text-align: center;
+    background-position-y: 40px;
+    background-position-x: 50px;
 }
 .html2{
-    background-image: url(./assets/html_student_Bio.PNG);
-    background-size: contain;
+    background-image: url(./assets/06-Stu-HTML2.PNG);
+    background-size:200px 300px;;
     background-repeat: no-repeat;
-    background-position: center;
-    background-size: 100%;
-    font-size: 2.5rem;
-    color: white;
-    font-weight: bold;
-    text-align: center;
+    background-position-y: 40px;
+    background-position-x: 50px;
+    
 }
 .attributes1{
     background-image: url(./assets/07insattributes.PNG);
-    background-size: contain;
+    /* background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
     font-size: 2.5rem;
     color: white;
     font-weight: bold;
-    text-align: center;
+    text-align: center; */
+    background-size:200px 300px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
 }
 .attributes2{
     background-image: url(./assets/08-Stu-Attributes.PNG);
-    background-size: contain;
+    /* background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
     font-size: 2.5rem;
     color: white;
     font-weight: bold;
-    text-align: center;
+    text-align: center; */
+    background-size:150px 300px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 75px;
 }
 
 .css-color1 {
     background-image: url(./assets/09-Ins-CSS.PNG);
-    background-size: contain;
+    /* background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
     font-size: 2.5rem;
     color: white;
     font-weight: bold;
-    text-align: center;
+    text-align: center; */
+    background-size:100px 300px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 100px;
 }
 .css-color2 {
     background-image: url(./assets/10-Stu-CSS-color.PNG);
-    background-size: contain;
+    /* background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
     font-size: 2.5rem;
     color: white;
     font-weight: bold;
-    text-align: center;
+    text-align: center; */
+    background-size:120px 300px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 90px;
 }
 .css-font1 {
     background-image: url(./assets/11-Ins-CSS-unit-font.PNG);
-    background-size: contain;
+    /* background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
     font-size: 2.5rem;
     color: white;
-    font-weight: bold;
+    font-weight: bold; */
     text-align: center;
+    background-size:120px 300px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 90px;
 }
 .css-font2 {
     background-image: url(./assets/12-stu-css-units-fonts.PNG);
-    background-size: contain;
+    /* background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100%;
     font-size: 2.5rem;
     color: white;
     font-weight: bold;
-    text-align: center;
+    text-align: center; */
+    background-size:300px 300px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 0px;
 }
 
