@@ -187,9 +187,9 @@ div:hover {
     color: white;
     font-weight: bold;
     text-align: center; */
-    background-size:300px 300px;;
+    background-size:200px 200px;;
     background-repeat: no-repeat;
     background-position-y: 40px;
-    background-position-x: 0px;
+    background-position-x: 50px;
 }
 
