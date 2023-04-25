@@ -224,3 +224,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 40px;
 }
+
+.css-box-model1{
+    background-image: url(./assets/17-Ins-CSS-box-model2.PNG);
+    background-size:220px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 40px;
+}
+
+.css-box-model2{
+    background-image: url(./assets/18-Stu-CSS-box-model2.PNG);
+    background-size:220px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 40px;
+}
