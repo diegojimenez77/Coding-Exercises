@@ -193,3 +193,18 @@ div:hover {
     background-position-x: 50px;
 }
 
+.css-selectors1{
+    background-image: url(./assets/13-Ins-CSS-selectors2.PNG);
+    background-size:100px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 95px;
+}
+
+.css-selectors2{
+    background-image: url(./assets/14-Stu-CSS-selectors2.PNG);
+    background-size:120px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 90px;
+}
