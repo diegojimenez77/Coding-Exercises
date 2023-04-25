@@ -208,3 +208,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 90px;
 }
+
+.html-display1{
+    background-image: url(./assets/15-Ins-HTML-display2.PNG);
+    background-size:220px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 40px;
+}
+
+.html-display2{
+    background-image: url(./assets/16-Stu-HTML-display2.PNG);
+    background-size:220px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 40px;
+}
