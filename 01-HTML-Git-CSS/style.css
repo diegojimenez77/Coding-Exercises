@@ -240,3 +240,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 40px;
 }
+
+.css-positioning1{
+    background-image: url(./assets/19-Ins-CSS-positioning2.PNG);
+    background-size:240px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 30px;
+}
+
+.css-positioning2{
+    background-image: url(./assets/20-Stu-CSS-positioning2.PNG);
+    background-size:240px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 30px;
+}
