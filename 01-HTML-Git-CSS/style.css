@@ -265,3 +265,11 @@ div:hover {
     font-weight: bold;
     text-align: center;
 }
+
+.mini-project{
+    background-image: url(./assets/Miniproject.PNG);
+    background-size:240px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 30px;
+}
