@@ -70,3 +70,19 @@ div:hover {
     font-weight: bold;
     text-align: center;
 }
+
+.InsMediaQuery{
+    background-image: url(./assets/01-Ins-Media-Query-Screen.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuMediaQuery{
+    background-image: url(./assets/02-Stu-Media-Query2.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
