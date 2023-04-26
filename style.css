@@ -29,10 +29,11 @@ nav ul li {
     margin-left: 2.5rem;
 }
 
+/* En el main esta la parte importante de mobile firts */
 main {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction:row;
     justify-content: space-around;
 }
 
@@ -106,7 +107,9 @@ div:hover {
 }
 .orm {
     background-image: url(./assets/orm.jpg);
-    background-size: 70%;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .mvc{
     background-image: url(./assets/mvc.jpg);

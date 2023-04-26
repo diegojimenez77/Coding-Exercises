@@ -86,3 +86,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 50px;
 }
+
+.InsFlexboxLayout{
+    background-image: url(./assets/03-Ins-Flexbox-Layout2.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuFlexboxLayout{
+    background-image: url(./assets/04-Stu-Flexbox-Layout2.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
