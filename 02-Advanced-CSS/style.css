@@ -102,3 +102,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 50px;
 }
+
+.InsResponsiveDesign{
+    background-image: url(./assets/05-Ins-Responsive-Design2.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuResponsiveDesign{
+    background-image: url(./assets/06-Stu-Responsive-Design2.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
