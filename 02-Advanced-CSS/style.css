@@ -89,7 +89,7 @@ div:hover {
 
 .InsFlexboxLayout{
     background-image: url(./assets/03-Ins-Flexbox-Layout2.PNG);
-    background-size:200px 200px;;
+    background-size:200px 100px;;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
@@ -97,7 +97,7 @@ div:hover {
 
 .StuFlexboxLayout{
     background-image: url(./assets/04-Stu-Flexbox-Layout2.PNG);
-    background-size:200px 200px;;
+    background-size:200px 100px;;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
@@ -113,7 +113,7 @@ div:hover {
 
 .StuResponsiveDesign{
     background-image: url(./assets/06-Stu-Responsive-Design2.PNG);
-    background-size:200px 200px;;
+    background-size:200px 100px;;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
@@ -129,7 +129,7 @@ div:hover {
 
 .StuFlexboxPlacement{
     background-image: url(./assets/08-Stu-Flexbox-Placement2.PNG);
-    background-size:200px 200px;;
+    background-size:200px 100px;;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
@@ -153,7 +153,7 @@ div:hover {
 
 .InsCSSResets{
     background-image: url(./assets/11-Ins-CSS-Resets.PNG);
-    background-size:200px 200px;
+    background-size:200px 100px;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
@@ -161,7 +161,7 @@ div:hover {
 
 .StuCSSResets{
     background-image: url(./assets/12-Stu-CSS-Resets2.PNG);
-    background-size:200px 200px;
+    background-size:200px 100px;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
@@ -169,14 +169,30 @@ div:hover {
 
 .InsTypography{
     background-image: url(./assets/13-Ins-Typography2.PNG);
-    background-size:200px 200px;
+    background-size:200px 100px;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
 }
 .StuTypography{
     background-image: url(./assets/14-Stu-Typography2.PNG);
-    background-size:200px 200px;;
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.InsPseudoClasses{
+    background-image: url(./assets/15-Ins-Pseudoclases.PNG);
+    background-size:200px 30px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuPseudoClasses{
+    background-image: url(./assets/16-Stu-Pseudo-Classes2.PNG);
+    background-size:200px 50px;;
     background-repeat: no-repeat;
     background-position-y: 40px;
     background-position-x: 50px;
