@@ -150,3 +150,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 50px;
 }
+
+.InsCSSResets{
+    background-image: url(./assets/11-Ins-CSS-Resets.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuCSSResets{
+    background-image: url(./assets/12-Stu-CSS-Resets2.PNG);
+    background-size:200px 200px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
