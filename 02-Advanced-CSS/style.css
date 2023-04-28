@@ -229,3 +229,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 50px;
 }
+
+.InsWireframing{
+    background-image: url(./pages/21-Ins-Wireframing/assets/01-unfinished-wireframe.png);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuWireframing{
+    background-image: url(./pages/22-Stu-Wireframing/assets/01-wireframe-form-completed.png);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
