@@ -261,3 +261,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 50px;
 }
+
+.InsCSSVariables{
+    background-image: url(./assets/25-Ins-CSS-Variables2.PNG);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuCSSVariables{
+    background-image: url(./assets/26-Ins-CSS-Variables2.PNG);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
