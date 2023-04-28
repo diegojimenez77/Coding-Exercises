@@ -213,3 +213,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 50px;
 }
+
+.InsFormStyles{
+    background-image: url(./assets/19-Ins-Form-Styles2.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuCustomStyles{
+    background-image: url(./assets/20-Stu-Custom-Forms2.PNG);
+    background-size:200px 100px;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
