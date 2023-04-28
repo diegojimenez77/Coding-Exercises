@@ -197,3 +197,19 @@ div:hover {
     background-position-y: 40px;
     background-position-x: 50px;
 }
+
+.InsPseudoElements{
+    background-image: url(./assets/17-Ins-Pseudo-Elements2.PNG);
+    background-size:200px 100px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
+
+.StuPseudoElements{
+    background-image: url(./assets/18-Stu-Pseudo-Elements2.PNG);
+    background-size:200px 70px;;
+    background-repeat: no-repeat;
+    background-position-y: 40px;
+    background-position-x: 50px;
+}
