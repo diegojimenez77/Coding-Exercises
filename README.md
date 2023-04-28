@@ -4,5 +4,4 @@ In this project you will find every exercise resolved as well as videos on how t
 
 The page is divided in 3 main sections, each section has different topics as well as a project completed.
 
-This change has been made in my Local.
-This change has been made in Github.
+Merge conflict test in Github.
