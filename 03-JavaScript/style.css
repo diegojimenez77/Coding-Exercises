@@ -130,3 +130,19 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 50px;
 }
+
+.InsConditionalStatements{
+    background-image: url(./assets/09-Ins-Conditional-Statements2.PNG);
+    background-size:210px 80px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+
+.StuConditionalStatements{
+    background-image: url(./assets/10-Stu-Conditional-Statements2.PNG);
+    background-size:200px 120px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
