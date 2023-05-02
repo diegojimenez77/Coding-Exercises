@@ -160,3 +160,18 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 50px;
 }
+
+.InsIteration{
+    background-image: url(./assets/13-Ins-Iteration2.PNG);
+    background-size:220px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+.StuIteration{
+    background-image: url(./assets/14-Stu-Iteration2.PNG);
+    background-size:220px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
