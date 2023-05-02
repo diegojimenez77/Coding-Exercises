@@ -146,3 +146,17 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 50px;
 }
+.InsArrays{
+    background-image: url(./assets/11-Ins-Array2.PNG);
+    background-size:200px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+.StuArrays{
+    background-image: url(./assets/12-Stu-Arrays2.PNG);
+    background-size:200px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
