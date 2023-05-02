@@ -74,42 +74,57 @@ div:hover {
 }
 .InsConsoleLog{
     background-image: url(./assets/01-Ins-Script-Console2.PNG);
-    background-size:200px 30px;;
+    background-size:250px 30px;;
     background-repeat: no-repeat;
     background-position-y: 60px;
-    background-position-x: 50px;
+    background-position-x: 30px;
 }
 .StuConsoleLog{
     background-image: url(./assets/01-Ins-Script-Console2.PNG);
-    background-size:200px 30px;;
+    background-size:250px 30px;;
     background-repeat: no-repeat;
     background-position-y: 60px;
-    background-position-x: 50px;
+    background-position-x: 30px;
 }
 .InsVariables{
     background-image: url(./assets/01-Ins-Script-Console2.PNG);
-    background-size:200px 30px;;
+    background-size:250px 30px;;
     background-repeat: no-repeat;
     background-position-y: 60px;
-    background-position-x: 50px;
+    background-position-x: 30px;
 }
 .StuVariables{
     background-image: url(./assets/01-Ins-Script-Console2.PNG);
-    background-size:200px 30px;;
+    background-size:250px 30px;;
     background-repeat: no-repeat;
     background-position-y: 60px;
-    background-position-x: 50px;
+    background-position-x: 30px;
 }
 .InsPrimitiveTypes{
     background-image: url(./assets/01-Ins-Script-Console2.PNG);
-    background-size:200px 30px;;
+    background-size:250px 30px;;
     background-repeat: no-repeat;
     background-position-y: 60px;
-    background-position-x: 50px;
+    background-position-x: 30px;
 }
 
 .StuPrimitiveTypes{
     background-image: url(./assets/01-Ins-Script-Console2.PNG);
+    background-size:250px 30px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 30px;
+}
+
+.InsLogicalComparison{
+    background-image: url(./assets/07-Ins-Logical-Comparison2.PNG);
+    background-size:150px 150px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 80px;
+}
+.StuLogicalComparison{
+    background-image: url(./assets/08-Stu-Logical-Comparison2.PNG);
     background-size:200px 30px;;
     background-repeat: no-repeat;
     background-position-y: 60px;
