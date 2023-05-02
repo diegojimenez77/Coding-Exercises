@@ -72,3 +72,17 @@ div:hover {
     font-weight: bold;
     text-align: center;
 }
+.InsConsoleLog{
+    background-image: url(./assets/01-Ins-Script-Console2.PNG);
+    background-size:200px 30px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+.StuConsoleLog{
+    background-image: url(./assets/01-Ins-Script-Console2.PNG);
+    background-size:200px 30px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
