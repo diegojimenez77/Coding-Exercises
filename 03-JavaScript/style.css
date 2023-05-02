@@ -175,3 +175,19 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 50px;
 }
+
+.InsFunctions{
+    background-image: url(./assets/15-Ins-Functions2.PNG);
+    background-size:220px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+
+.StuFunctions{
+    background-image: url(./assets/16-Stu-Functions2.PNG);
+    background-size:220px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
