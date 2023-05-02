@@ -191,3 +191,18 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 50px;
 }
+
+.InsScope{
+    background-image: url(./assets/17-Ins-Scope2.PNG);
+    background-size:220px 80px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+.StuScope{
+    background-image: url(./assets/18-Stu-Scope2.PNG);
+    background-size:220px 80px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
