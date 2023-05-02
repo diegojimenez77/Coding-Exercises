@@ -206,3 +206,19 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 50px;
 }
+
+.InsMethods{
+    background-image: url(./assets/19-Ins-Methods2.PNG);
+    background-size:220px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+
+.StuMethods{
+    background-image: url(./assets/20-Stu-Methods2.PNG);
+    background-size:220px 40px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
