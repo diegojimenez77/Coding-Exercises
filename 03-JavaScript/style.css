@@ -222,3 +222,19 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 50px;
 }
+
+.InsObjects{
+    background-image: url(./assets/21-Ins-Objects2.PNG);
+    background-size:220px 80px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 50px;
+}
+
+.StuObjects{
+    background-image: url(./assets/22-Stu-Objects2.PNG);
+    background-size:240px 30px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 30px;
+}
