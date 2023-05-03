@@ -270,9 +270,17 @@ background-position-x: 30px;
     }
 
 .MiniProject{
-    background-image: url(./assets/28-Mini-Project2.PNG);
-    background-size:250px 80px;;
+    background-image: url(./assets/28-Mini-Project3.jpg);
+    background-size:200px 80px;;
     background-repeat: no-repeat;
     background-position-y: 60px;
-    background-position-x: 30px;
+    background-position-x: 50px;
     }
+
+.Homework{
+        background-image: url(./assets/29-Homework2.PNG);
+        background-size:150px 80px;;
+        background-repeat: no-repeat;
+        background-position-y: 60px;
+        background-position-x: 80px;
+        }
