@@ -254,3 +254,17 @@ div:hover {
     background-position-y: 60px;
     background-position-x: 30px;
 }
+.InsObjtThis{
+background-image: url(./assets/25-Ins-Object-This2.PNG);
+background-size:240px 100px;;
+background-repeat: no-repeat;
+background-position-y: 60px;
+background-position-x: 30px;
+}
+.StuObjtThis{
+    background-image: url(./assets/26-Stu-Object-This2.PNG);
+    background-size:240px 100px;;
+    background-repeat: no-repeat;
+    background-position-y: 60px;
+    background-position-x: 30px;
+    }
