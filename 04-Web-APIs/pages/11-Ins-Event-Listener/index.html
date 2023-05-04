@@ -4,51 +4,36 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Click Event</title>
+    <title></title>
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-    <div class="container dark">
-        <div class="menu">
+    <header>
+        <h1></h1>
+        <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
-                <li><a href="#gallery">Galery</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="#about">About</a></li>
+                <li><a href="javascript:javascript:history.go(-1)">Go Back</a></li>
             </ul>
-        </div>
-        <div class="row toggle">
-            <div class="col">
-                <p>DARK MODE</p>
-            </div>
-            <label class="switch col">
-                <input type="checkbox" id="theme-switcher">
-                <span class="slider round"></span>
-            </label>
-            <div class="col">
-                <p>LIGHT MODE</p>
-            </div>
-        </div>
-        <div class="row">
-            <h2>Adding an Event Listener</h2>
-        </div>
-        <div class="row">
-            <div>
-                <p>We use .addEvnetListener() method to set up an element to listen for a specific event</p>
-                <p id="light-mode">When we switch the slider to "Light Mode", the background is changed to a light color.</p>
-                <p id="dark-mode">When we switch the slider to "Dark Mode", the background is changed to a dark color.</p>
-            </div>
-        </div>
-        <div class="footer">
-            <ul>
-                <li><a href="#home">Terms of Use</a></li>
-                <li><a href="#gallery">Privacy Policy</a></li>
-                <li><a href="#contact">Contact</a></li>
-                <li><a href="#about">About</a></li>
-            </ul>
-        </div>
-    </div>
+        </nav>
+    </header>
+    <main>
+        <h1>Play the following video to review .</h1>
+        <section>
+            <a href="">
+                <img src="./assets/" alt="Example of Organizing tests">
+            </a>
+            <h2>
+                <a href="">Go to the following link to watch the Video</a>    
+            </h2>
+        </section> 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0YAwTQo8eTM?start=1:00:00" frameborder="0" allowfullscreen></iframe> -->
 
-    <script src="./script.js"></script>
+        <div >
+            <h2>
+                <a href="./exercise/test.html">Haz Click Aqui para ver el ejemplo</a>
+            </h2>
+        </div>
+    </main>
 </body>
 </html>
