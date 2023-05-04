@@ -8,8 +8,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>MVC</h1>
+    <header class="header">
+        <h1>Model View Controller</h1>
         <nav>
             <ul>
                 <li><a href="../index.html">Go back</a></li>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="InsMVCHandlebarsIntro"><a href="./pages/01-Ins-MVC-Handlebars-Intro/index.html">MVC Intro</a></div>
         <div class="StuMVCHandlebarsIntro"><a href="./pages/02-Stu-MVC-Handlebars-Intro/index.html">MVC Handlebars</a></div>
         <div class="InsHandlebarsExpressions"><a href="./pages/03-Ins-Handlebars-Expressions/index.html">I Handl Expressions</a></div>
@@ -49,5 +53,6 @@
         <div class="Homework"><a href="">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>

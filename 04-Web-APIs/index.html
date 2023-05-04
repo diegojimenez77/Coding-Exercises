@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>Web-APIs</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="WindowObject"><a href="./pages/01-Ins-Window-Object/index.html">Ins Window Object</a></div>
         <div class="StuWindowObject"><a href="./pages/02-Stu-Window-Object/index.html">Stu Window Object</a></div>
         <div class="InsTraverseDom"><a href="./pages/03-Ins-Traverse-DOM/index.html">Ins Traverse DOM</a></div>
@@ -50,5 +54,6 @@
         <div class="Homework"><a href="./pages/Homework/index.html">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>

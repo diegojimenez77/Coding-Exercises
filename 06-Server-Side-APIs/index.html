@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>Server Side APIs</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="InsDemoCurl"><a href="./pages/01-Ins-Demo-Curl/index.html">Ins Demo Curl</a></div>
         <div class="StuCurlDebug"><a href="./pages/02-Stu-Curl-Debug/index.html">Stu Curl Debug</a></div>
         <div class="InsDemoFetch"><a href="./pages/03-Ins-Demo-Fetch/index.html">Ins Demo Fetch</a></div>
@@ -48,5 +52,6 @@
         <div class="Homework"><a href="./pages/28-Homework/index.html">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>

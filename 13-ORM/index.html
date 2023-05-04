@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>ORM</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="InsSequelizeSetup"><a href="./pages/01-Ins-Sequelize-Setup/index.html">I Sequelize Setup</a></div>
         <div class="StuSequelizeSetup"><a href="./pages/02-Stu-Sequelize-Setup/index.html">S Sequelize Setup</a></div>
         <div class="InsModels"><a href="./pages/03-Ins-Models/index.html">Ins Models</a></div>
@@ -49,5 +53,6 @@
         <div class="Homework"><a href="">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>
