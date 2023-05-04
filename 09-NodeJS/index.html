@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>Node JS</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="InsNodeDemo"><a href="./pages/01-Ins-Node-Demo/index.html">Ins Node Demo</a></div>
         <div class="StuHelloNode"><a href="./pages/02-Stu-Hello-Node/index.html">Stu Hello Node</a></div>
         <div class="InsArrowFunction"><a href="./pages/03-Ins-Arrow-Functions/index.html">Ins Arrow Function</a></div>
@@ -50,5 +54,6 @@
         <div class="Homework"><a href="">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>

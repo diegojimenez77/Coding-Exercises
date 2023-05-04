@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>React</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="InsCreateReactApp"><a href="./pages/01-Ins-Create-React-App/index.html">Ins C React App</a></div>
         <div class="StuCreateReactApp"><a href="./pages/02-Stu-Create-React-App/index.html">Stu C React App</a></div>
         <div class="InsRenderElement"><a href="./pages/03-Ins-Render-Element/index.html">Ins Render Element</a></div>
@@ -49,5 +53,6 @@
         <div class="Homework"><a href="">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>

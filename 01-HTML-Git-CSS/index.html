@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>HTML-GIT-CSS</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="command-line1"><a href="./pages/01-Ins-Command-Line/01-Ins-Command-Line.html">01-Ins-Command-Line</a></div>
         <div class="Stucommand-line1"><a href="./pages/02-Stu-Command-Line/index.html">02-Stu-Command-Line</a></div>
         <div class="git"><a href="./pages/03-Ins-Git/02-Git.html">03-Ins-Git</a></div>
@@ -45,5 +49,6 @@
         <div class="Homework"><a href="./pages/23-Homework/index.html">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>

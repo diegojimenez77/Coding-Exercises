@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>Coding Exercises</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <article class="container1">
             <div class="html-git-css"><a href="./01-HTML-Git-CSS/index.html">HTML-Git-CSS</a></div>
             <div class="advanced-css"><a href="./02-Advanced-CSS/index.html">Advanced CSS</a></div>
@@ -52,5 +56,6 @@
         </article>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>

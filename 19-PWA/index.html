@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
+    <header class="header">
         <h1>PWAs</h1>
         <nav>
             <ul>
@@ -18,8 +18,12 @@
                 <li>Portfolio</li>
             </ul>
         </nav>
+        <label class="switch col">
+            <input type="checkbox" id="theme-switcher">
+            <span class="slider round"></span>
+        </label>
     </header>
-    <main>
+    <main class="main">
         <div class="InsLighthouse"><a href="./pages/01-Ins-Lighthouse/index.html">Ins Lighthouse</a></div>
         <div class="StuLighthouse"><a href="./pages/02-Stu-Lighthouse/index.html">Stu Lighthouse</a></div>
         <div class="InsWebpackIntro"><a href="./pages/03-Ins-Webpack-Intro/index.html">Ins Webpack</a></div>
@@ -49,5 +53,6 @@
         <div class="Homework"><a href="">Homework</a></div>
     </main>
     <footer></footer>
+    <script src="./script.js"></script>
 </body>
 </html>
