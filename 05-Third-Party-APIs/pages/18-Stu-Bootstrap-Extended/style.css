@@ -1,49 +1,60 @@
-:root {
-    --brown: #a88f82;
-    --tan: #f5e1d5;
-    --teal: #71a8a7;
-    --lightteal: #d5f5f5;
-    --light: #fffaf7;
-  }
-  
-  /* Add your custom class style definitions here */
-  /* HINT: Apply CSS variables using `var(--brown)` syntax as your property value */
-  
-  .custom-navbar {
-    background-color: var(--teal);
-  }
-  
-  .custom-navbar a {
-    font-size: 1.5rem;
-    color: var(--lightteal);
-  }
-  
-  .custom-navbar a:hover {
-    color: var(--light);
-  }
-  
-  .custom-jumbotron {
-    background-color: var(--lightteal);
-    color: var(--teal);
-  }
-  
-  .custom-btn {
-    background-color: var(--brown);
-    color: var(--light);
-  }
-  
-  .custom-btn:hover {
-    background-color: var(--tan);
-    color: var(--brown);
-  }
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 
-  .custom-card {
-    border-color: var(--teal);
-    color: var(--brown);
-  }
-  
-  .custom-card-header {
-    background-color: var(--teal);
-    color: var(--lightteal);
-  }
-  
+html{
+    font-size: 62.5%;
+}
+
+header {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #2a607c;
+    padding: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    justify-content: space-evenly;
+}
+h1 {
+    display: inline-block;
+    font-size: 4.8rem;
+    padding: 2rem;
+}
+h2{
+    font-size: 3rem;
+    padding: 1rem;
+}
+li{
+    font-size: 2rem;
+    padding: 0.5rem;
+}
+
+nav ul li {
+    padding-top: 1.5rem;
+    font-size: 2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline-block;
+    justify-content:flex-end;
+    margin-left: 2.5rem;
+}
+
+main {
+    text-align: left;
+}
+.container {
+width: 70%;
+}
+
+a {
+    align-content: center;
+}
+
+section {
+    padding: 20px;
+}
+
+iframe{
+    padding: 20px;
+}
