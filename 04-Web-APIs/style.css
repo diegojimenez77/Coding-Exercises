@@ -236,6 +236,13 @@ div:hover {
     background-position:bottom;
 }
 
+.Algorithms {
+    background-image: url(./assets/29-Algorithms2.PNG);
+    background-size:200px 50px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-position-y: 60px;
+}
 .Homework {
     background-image: url(./assets/Homework.PNG);
     background-size:200px 100px;
