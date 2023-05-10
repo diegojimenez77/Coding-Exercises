@@ -161,7 +161,7 @@ div:hover {
     background-color: aliceblue;
 }
 
-/* Dark mide Switch */
+/* Dark mode Switch */
 .switch {
     position: relative;
     display: inline-block;
@@ -231,5 +231,5 @@ div:hover {
   .col {
     margin: 20px;
   }
-  /* Dark mide Switch */
+  /* Dark mode Switch */
   
